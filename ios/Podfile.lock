@@ -1,0 +1,34 @@
+PODS:
+  - Flutter (1.0.0)
+  - smart_auth (0.0.1):
+    - Flutter
+  - sms_autodetect (0.0.1):
+    - Flutter
+  - sms_autofill (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - smart_auth (from `.symlinks/plugins/smart_auth/ios`)
+  - sms_autodetect (from `.symlinks/plugins/sms_autodetect/ios`)
+  - sms_autofill (from `.symlinks/plugins/sms_autofill/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  smart_auth:
+    :path: ".symlinks/plugins/smart_auth/ios"
+  sms_autodetect:
+    :path: ".symlinks/plugins/sms_autodetect/ios"
+  sms_autofill:
+    :path: ".symlinks/plugins/sms_autofill/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  smart_auth: 4bedbc118723912d0e45a07e8ab34039c19e04f2
+  sms_autodetect: fc3f45bfa08a8d74f5ee3578eaf9cf285cd38d34
+  sms_autofill: c461043483362c3f1709ee76eaae6eb570b31686
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.11.3
